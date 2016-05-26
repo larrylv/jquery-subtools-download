@@ -1,7 +1,7 @@
 {
   "name": "jquery.download",
   "version": "0.0.1",
-  "main": ["jquery.download.js"],
+  "main": ["index.js"],
   "description": "allows for simple get/post requests for files",
   "license": "MIT",
   "ignore": [
